@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayush28.connect@gmail.com**
 
-- ⚡ Fun fact **I love anime, my favorite one is Haikyuu**
+- ⚡ Fun fact **I love anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
