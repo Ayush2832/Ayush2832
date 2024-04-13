@@ -5,9 +5,8 @@
 
 - 💬 Ask me about **Linux, Java**
 
-- 📫 How to reach me **ayush28.connect@gmail.com**
+- 📫 Contact **ayush28.connect@gmail.com**
 
-- ⚡ Fun fact **I love anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
