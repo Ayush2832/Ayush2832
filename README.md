@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Learner</h3>
 
-- 🌱 I’m currently learning **Linux, Java, Cloud, Golang**
+- 🌱 I’m currently learning **Linux, Cloud**
 
 - 💬 Ask me about **Linux, Golang**
 
