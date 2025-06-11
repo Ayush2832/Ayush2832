@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Learner</h3>
 
-- 🌱 I’m currently learning **Linux, Cloud**
-
-- 💬 Ask me about **Linux, Golang**
-
-- 📫 Contact **ayush28.connect@gmail.com**
+- 📫 Contact: **ayush28.connect@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
