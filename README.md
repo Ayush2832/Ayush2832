@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Learner</h3>
+<h1 align="center">Ayush</h1>
 
 - 📫 Contact: **ayush28.connect@gmail.com**
 
