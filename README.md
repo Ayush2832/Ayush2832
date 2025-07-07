@@ -1,6 +1,5 @@
-<h1 align="center">Ayush</h1>
 
-- 📫 Contact: **ayush28.connect@gmail.com**
+- Email: **ayush28.connect@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
