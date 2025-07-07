@@ -1,5 +1,5 @@
 
-<p align="center">Email: ayush28.connect@gmail.com</p>
+<h3 align="center">Email: ayush28.connect@gmail.com </h3>
 
 
 <h3 align="center">Connect with me:</h3>
