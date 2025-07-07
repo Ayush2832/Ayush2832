@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush-92a362277" target="blank"><img align="center" src="./art4.png" alt="www.linkedin.com/in/ayush-92a362277" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-92a362277" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000" alt="www.linkedin.com/in/ayush-92a362277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
